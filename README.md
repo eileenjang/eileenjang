@@ -1,4 +1,9 @@
-### Hi there 👋
+## :woman_technologist: Eileen 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoonseok-yang/)](https://www.linkedin.com/in/eileenjang/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eileen.jang2139@gmail.com)](mailto:eileen.jang2139@gmail.com) 
+
+[![Eileen's github stats](https://github-readme-stats.vercel.app/api?username=eileenjang&show_icons=true&count_private=true)](https://github.com/eileenjang/github-readme-stats)
+
 
 <!--
 **eileenjang/eileenjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
