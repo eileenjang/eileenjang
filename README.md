@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m **Hyoseo Jang**, *or you can say* **Eileen**.<br>
 
-📖 I’m nowadays learning TypeScript , Jasmine , Machine Learning , Statistics for Data Science<br>
+📖 I’m nowadays learning TypeScript , Statistics , and ML<br>
 ✅ I'm currently working on SAP Labs Korea<br>
 📫 How to reach me eileen.jang2139@gmail.com
 
